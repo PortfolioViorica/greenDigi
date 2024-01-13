@@ -31,8 +31,8 @@ It could be created a gap between where the organization is and where it needs t
 
 ### References
 Links:
--https://www.wearethreesixty.com/how-to-reduce-your-file-size-and-your-carbon-footprint/
--https://carboncrane.io/blog/post/the-size-of-downloaded-files?lang=en&theme=light
+- https://www.wearethreesixty.com/how-to-reduce-your-file-size-and-your-carbon-footprint/
+- https://carboncrane.io/blog/post/the-size-of-downloaded-files?lang=en&theme=light
 - https://carbonologyhub.com/creating-effective-carbon-reduction-plan/
   
 
