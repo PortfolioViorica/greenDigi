@@ -30,6 +30,10 @@ Recognize and reward employees for their contributions to sustainability.
 It could be created a gap between where the organization is and where it needs to be, by selecting wrong objectives, challenges on decinding th final look of the presentation to make active engagement of the audience. Dependence on technology could create some issues can also be a vulnerability in some situations.
 
 ### References
-Link: https://www.wearethreesixty.com/how-to-reduce-your-file-size-and-your-carbon-footprint/
+Links:
+-https://www.wearethreesixty.com/how-to-reduce-your-file-size-and-your-carbon-footprint/
+-https://carboncrane.io/blog/post/the-size-of-downloaded-files?lang=en&theme=light
+- https://carbonologyhub.com/creating-effective-carbon-reduction-plan/
+  
 
 
